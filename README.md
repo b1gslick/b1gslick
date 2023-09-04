@@ -37,7 +37,7 @@
   ### :fire: My Stats :
 
 <p align="center">
-  <img alig src=https://github-readme-stats.vercel.app/api?username=bigslick&show_icons=true&theme=tokyonight)/>
+  <img alig src=https://github-readme-stats.vercel.app/api?username=b1gslick&show_icons=true&theme=tokyonight)/>
 </p>
 
 

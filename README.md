@@ -42,7 +42,7 @@
 
 
 <p align="center">
- <img alig src=https://github-readme-stats.vercel.app/api/top-langs/?username=b1gslick&layout=compact)](https://github.com/b1gslick/github-readme-stats)
+ <img alig src=(https://github-readme-stats.vercel.app/api?username=b1gslick&show_icons=true&theme=radical)]
 </p>
 
 <p align="center">

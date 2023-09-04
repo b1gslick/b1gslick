@@ -31,13 +31,13 @@
 
  
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=your-github-b1gslick&style=flat-square&color=blue" alt=""/>
+ <img src="https://komarev.com/ghpvc/?username=b1gslick&style=flat-square&color=blue" alt=""/>
  
   ---
   ### :fire: My Stats :
 
 <p align="center">
-  <img alig src=https://github-readme-stats.vercel.app/api?username=s_timokhin&show_icons=true&theme=tokyonight)/>
+  <img alig src=https://github-readme-stats.vercel.app/api?username=bigslick&show_icons=true&theme=tokyonight)/>
 </p>
 
 

@@ -18,13 +18,13 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
    </div>
   
-  ###  Youtube:
+  ###  QARoom project:
 
  <div>
-   I've started my channel to overview, my vision of testing
-   <a href="https://www.youtube.com/channel/UCMWgpLYQ0DSy95pTgxvUWbA">Youtube channel</a>
+   I've started my channel to overview, my vision of testing 
+   <a href="https://www.youtube.com/channel/UCMWgpLYQ0DSy95pTgxvUWbA">Youtube channel</a><br/>
    Also, we have a telegram group for our project
-  <a href="https://t.me/+VguiSJX0lQIzOGIy">QARoom</a>
+  <a href="https://t.me/+VguiSJX0lQIzOGIy">QARoom</a> <br/>
 
 </div>
 
